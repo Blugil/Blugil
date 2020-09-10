@@ -2,9 +2,10 @@
 
 My name's Dominick! I am beyond passionate about all forms of technology across all fronts. I mainly work with Javascript in the flavors of Node and React to bring my ideas to life on the magical place that is the internet. I love creating tools, projects, and applications for people to use that make the small parts of their days better. My favorite projects have been my [Discord Bot](https://github.com/Blugil/jobiebot) and my [Twitch Bot](https://github.com/Blugil/blubot) both of which I use almost daily and am constantly working to improve on.
 
-- 🔭 I’m currently working on my bots and a secret website that involves...a very big playlist (to spoil as little as possible)
-- 🌱 I’m currently learning Node, Express, and NGINX as I really want to become proficient in back end programming
-- 🤔 I’m looking for help with my Node code, I'm always looking to imporove my techniques to the best they can be
+- 🔭 I’m currently working on my discord cat bot and my twitch chat bot alongside my personal website
+- 🌱 I’m currently learning Node and Express as I really want to become proficient in back end programming
+- 🤔 I’m looking for help with my Node code techniques and habits as well as proper project structuring
+- 💬 Ask me about the upcoming Apple laptops with inhouse silicon, or NVidia's new 3000 series GPUs, or how the Intel and AMD compeition is shaping the CPU industry, or...
 - 📫 How to reach me: 
   - [email](dagnello@asu.edu)
   - [linkedin](https://www.linkedin.com/in/dominickagnello/)
