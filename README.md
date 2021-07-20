@@ -8,7 +8,6 @@ My name's Dominick! I mainly work with Javascript in the flavors of Node and Rea
   - [ ] NeoVim plugin in lua
   - [ ] John Conway's 'Game of Life' running in terminal with rust
 - 📫 How to reach me: 
-  - [email](dagnello@asu.edu)
   - [linkedin](https://www.linkedin.com/in/dominickagnello/)
   - [personal website](dagnello.io)
 - 😄 Pronouns: He/Him
