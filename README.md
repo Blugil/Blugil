@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Dominick! I mainly work with Javascript in the flavors of Node and React to bring my ideas to life on the magical place that is the internet. I'm a vim finatic and always enjoy learning new things.
+My name's Dominick! I mainly work with Javascript in the flavors of Node and React to bring my ideas to life on the magical place that is the internet. I'm a (neo)vim and Linux enthusiast and always enjoy learning new things.
 
 - 🌱 I’m currently learning Python, Rust, and Lua.
 - 🔭 I’m currently working on:
