@@ -4,7 +4,7 @@ My name's Dominick! I mainly work with Javascript in the flavors of Node and Rea
 
 - 🌱 I’m currently learning Python, Rust, and Lua.
 - 🔭 I’m currently working on:
-  - [ ] TUI kitty theme switcher in python
+  - [x] TUI kitty theme switcher in python
   - [ ] NeoVim plugin in lua
   - [ ] John Conway's 'Game of Life' running in terminal with rust
 - 📫 How to reach me: 
