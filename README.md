@@ -2,11 +2,11 @@
 
 My name's Dominick! I mainly work with Javascript in the flavors of Node and React to bring my ideas to life on the magical place that is the internet. I'm a (neo)vim and Linux enthusiast and always enjoy learning new things.
 
-- 🌱 I’m currently learning Python, Rust, and Lua.
+- 🌱 I’m currently learning.
 - 🔭 I’m currently working on:
-  - [x] TUI kitty theme switcher in python
-  - [ ] NeoVim plugin in lua
-  - [ ] John Conway's 'Game of Life' running in terminal with rust
+  - My Linux setup
+  - Going through the rust docs
+  - My blog
 - 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/dominickagnello/)
   - [personal website](dagnello.io)
