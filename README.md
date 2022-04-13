@@ -9,7 +9,7 @@ My name's Dominick! I mainly work with Javascript in the flavors of Node and Rea
   - My blog
 - 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/dominickagnello/)
-  - [personal website](dagnello.io)
+  - [personal website](https://dagnello.io)
 - 😄 Pronouns: He/Him
 
 
