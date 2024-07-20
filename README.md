@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-My name's Dominick! I'm a (neo)vim and Linux enthusiast and always enjoy learning new things. Currenly on an emulator kick. Trying to get my first Chip8 (and extras) working with a GUI using Rust.
+Upcoming Computer Science Master's Student at Arizona State University.
 
-- 🌱 I’m currently learning: Rust
-- 🔭 I’m currently working on: My Chip-8 emulator and debugging GUI
-- 🤔 I’m looking for help with ... mentorship! I would love to me a mentee.
 - 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/dominickagnello/)
   - [personal website](https://dagnello.io)
